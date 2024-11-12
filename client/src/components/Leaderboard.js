@@ -3,7 +3,7 @@ import React from "react";
 function Leaderboard() {
   const mockLeaderboardData = [
     { id: 1, name: "Jhon", connections: 15 },
-    { id: 2, name: "Bob", connections: 12 },
+    { id: 2, name: "Manish", connections: 12 },
     { id: 3, name: "Charlie", connections: 10 },
   ];
 
